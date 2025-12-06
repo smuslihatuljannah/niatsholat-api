@@ -1,0 +1,32 @@
+{
+  "subuh": {
+    "judul": "Niat Sholat Subuh",
+    "arab": "أُصَلِّيَ فَرْضَ الصُّبْحِ...",
+    "latin": "Ushalli fardhas shubhi...",
+    "arti": "Aku niat shalat fardhu subuh…"
+  },
+  "dzuhur": {
+    "judul": "Niat Sholat Dzuhur",
+    "arab": "أُصَلِّيَ فَرْضَ الظُّهْرِ...",
+    "latin": "Ushalli fardhazh zhuhri...",
+    "arti": "Aku niat shalat fardhu dzuhur…"
+  },
+  "ashar": {
+    "judul": "Niat Sholat Ashar",
+    "arab": "أُصَلِّيَ فَرْضَ الْعَصْرِ...",
+    "latin": "Ushalli fardhal 'ashri...",
+    "arti": "Aku niat shalat fardhu ashar…"
+  },
+  "maghrib": {
+    "judul": "Niat Sholat Maghrib",
+    "arab": "أُصَلِّيَ فَرْضَ الْمَغْرِبِ...",
+    "latin": "Ushalli fardhal maghribi...",
+    "arti": "Aku niat shalat fardhu maghrib…"
+  },
+  "isya": {
+    "judul": "Niat Sholat Isya",
+    "arab": "أُصَلِّيَ فَرْضَ الْعِشَاءِ...",
+    "latin": "Ushalli fardhal 'isyaa'i...",
+    "arti": "Aku niat shalat fardhu isya…"
+  }
+}
